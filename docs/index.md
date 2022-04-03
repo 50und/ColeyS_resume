@@ -4,7 +4,6 @@ title: Stephen Coley
 ---
 # Stephen Coley
 Curious Data Science student with an entrepreneurial spirit
-This is the requiered change for the project, erase after merge, thanks for a great semester and prosper in the future.
 <div id="webaddress">
 <a href="stephen@mefford.org">stephen@mefford.org</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
